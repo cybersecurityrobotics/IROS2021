@@ -1,3 +1,3 @@
+## Cybersecurity of Robotics Workshop for IROS 2021
 
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+Please visit the [workshop page](https://yuhan-zhao.github.io/SinglePaged/) for more details.
