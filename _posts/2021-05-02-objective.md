@@ -7,7 +7,7 @@ fa-icon: check-square-o
 
 
 
-# Workshop Objective
+# Tutorial Objective
 
 Robots are widely used in industrial production environments and increasingly in logistics, healthcare, and home appliances. Most of the traditional robot systems are being operated by a PLC and/or a specific robot controller. But even while being isolated in industrial networks, these machines are not free from harm. Both human safety and product quality are at stake. But more increasingly flexible, autonomous and versatile robots have entered into the industrial domain. Collaborative robots are being released from their cages and put in close cooperation with humans. That positive trend also sees a significant decline in cost for robotics. Partially thanks to the availability of standard technologies, such as Internet / IoT, OPC/UA, ROS, cloud, Azure Sphere, and the interconnectivity of the robotic systems. But most of the robotic systems lack a fundamental cybersecurity posture.
 
