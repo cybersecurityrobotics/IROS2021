@@ -7,7 +7,7 @@ fa-icon: user
 
 
 
-## Quanyan Zhu 
+## Quanyan Zhu
 
 <img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/user_logo.png" width="200px">
 
@@ -15,7 +15,7 @@ Associate Professor
 
 Department of Electrical and Computer Engineering, Tandon School of Engineering, New York University
 
-5 MetroTech Center, Brooklyn, NY, 11201 
+5 MetroTech Center, Brooklyn, NY, 11201
 
 E-mail: [quanyan.zhu@nyu.edu](mailto:quanyan.zhu@nyu.edu)
 
@@ -29,7 +29,7 @@ Phone: +1 646-997-3371
 
 <img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/user_logo.png" width="200px">
 
-Full Professor 
+Full Professor
 
 Johannes Kepler University Linz, Secure and Correct Systems Lab
 
@@ -41,7 +41,7 @@ Email: [stefan.rass80@gmail.com](mailto:stefan.rass80@gmail.com)
 
 <div style="clear:both">&nbsp;</div> <div style="clear:both">&nbsp;</div>
 
-## *Bernhard Dieber
+## Bernhard Dieber
 
 <img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/user_logo.png" width="200px">
 
@@ -51,22 +51,24 @@ Lakeside B13 9020 Klagenfurt, Austria
 
 Email: [bernhard.dieber@joanneum.at](mailto:bernhard.dieber@joanneum.at)
 
- 
+
 
 <div style="clear:both">&nbsp;</div> <div style="clear:both">&nbsp;</div>
 
 ## Víctor Mayoral-Vilches
 
-<img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/user_logo.png" width="210px">
+<img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/victor.jpg" width="210px">
 
-Robotics and security researcher at Alias Robotics
+- Alias Robotics
+  - Robotics and security researcher
+  - Venta de la Estrella 6, Pab. 130, Vitoria, 01006 Spain
+  - Email: [victor@aliasrobotics.com](mailto:victor@aliasrobotics.com)
 
-Email: [victor@aliasrobotics.com](mailto:victor@aliasrobotics.com) 
+- Xilinx
+  - Systems architect, robotics
+  - Email: [victorma@xilinx.com](mailto:victorma@xilinx.com)
 
-Researcher at System Security Group, Universitätsstr
-
-65-67 A-9020 Klagenfurt Austria
-
-Email: [v1mayoralv@edu.aau.at](mailto:v1mayoralv@edu.aau.at)
-
-Phone: +34 616151561
+- Klagenfurt Universität
+  - Researcher at System Security Group, Klagenfurt Universität,
+  - 65-67 A-9020, Klagenfurt, Austria
+  - Email: [v1mayoralv@edu.aau.at](mailto:v1mayoralv@edu.aau.at)
