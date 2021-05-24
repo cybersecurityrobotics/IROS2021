@@ -9,7 +9,8 @@ fa-icon: user
 
 ## Quanyan Zhu
 
-<!--- <img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/user_logo.png" width="200px">
+<!---
+<img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/quanyan.png" width="200px">
 
 Associate Professor
 
@@ -20,14 +21,14 @@ Department of Electrical and Computer Engineering, Tandon School of Engineering,
 E-mail: [quanyan.zhu@nyu.edu](mailto:quanyan.zhu@nyu.edu)
 
 Phone: +1 646-997-3371
----> 
+--->
 
 <table style="width:90%">
   <tr>
-    <td> <br/> <img src="{{ site.baseurl }}{{ post.url }}/img/user_logo.png" width="210px"> </td>
-    <td><p> Associate Professor 
-      <br/><br/> Department of Electrical and Computer Engineering, Tandon School of Engineering, New York University 
-      <br/><br/> 5 MetroTech Center, Brooklyn, NY, 11201 
+    <td> <br/> <img src="{{ site.baseurl }}{{ post.url }}/img/quanyan.png" width="210px"> </td>
+    <td><p> Associate Professor
+      <br/><br/> Department of Electrical and Computer Engineering, Tandon School of Engineering, New York University
+      <br/><br/> 5 MetroTech Center, Brooklyn, NY, 11201
       <br/><br/> E-mail: <a href="quanyan.zhu@nyu.edu">quanyan.zhu@nyu.edu</a>
       <br/><br/> Phone: +1 646-997-3371
     </p></td>
@@ -40,7 +41,8 @@ Phone: +1 646-997-3371
 
 ## Stefan Rass
 
-<!---<img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/user_logo.png" width="200px">
+<!---
+<img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/stefan.jpg" width="200px">
 
 Full Professor
 
@@ -53,7 +55,7 @@ Email: [stefan.rass80@gmail.com](mailto:stefan.rass80@gmail.com)
 
 <table style="width:90%">
   <tr>
-    <td> <br/> <img src="{{ site.baseurl }}{{ post.url }}/img/user_logo.png" width="200px"> </td>
+    <td> <br/> <img src="{{ site.baseurl }}{{ post.url }}/img/stefan.jpg" width="210px"> </td>
     <td><p> Full Professor
       <br/><br/> Johannes Kepler University Linz, Secure and Correct Systems Lab
       <br/><br/> Altenbergerstraße 69, 4040 Linz, Austria
@@ -67,7 +69,8 @@ Email: [stefan.rass80@gmail.com](mailto:stefan.rass80@gmail.com)
 
 ## Bernhard Dieber
 
-<!--- img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/user_logo.png" width="200px">
+<!---
+<img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/bernhard.png" width="200px">
 
 Head of Robot Systems Group, Joanneum Research, Institute for Robotics and Mechatronics
 
@@ -78,7 +81,7 @@ Email: [bernhard.dieber@joanneum.at](mailto:bernhard.dieber@joanneum.at)
 
 <table style="width:90%">
   <tr>
-    <td> <br/> <img src="{{ site.baseurl }}{{ post.url }}/img/user_logo.png" width="210px"> </td>
+    <td> <br/> <img src="{{ site.baseurl }}{{ post.url }}/img/bernhard.jpg" width="210px"> </td>
     <td><p> Head of Robot Systems Group, Joanneum Research, Institute for Robotics and Mechatronics
       <br/><br/> Lakeside B13 9020 Klagenfurt, Austria
       <br/><br/> E-mail: <a href="bernhard.dieber@joanneum.at">bernhard.dieber@joanneum.at</a>
@@ -121,7 +124,7 @@ Email: [bernhard.dieber@joanneum.at](mailto:bernhard.dieber@joanneum.at)
           <li> Email: <a href="mailto:victor@aliasrobotics.com">victor@aliasrobotics.com</a> </li>
         </ul>
       <li>Xilinx</li>
-        <ul> 
+        <ul>
             <li> Systems architect, robotics </li>
             <li> Email: <a href="mailto:victorma@xilinx.com">victorma@xilinx.com</a> </li>
         </ul>
