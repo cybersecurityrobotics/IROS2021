@@ -81,7 +81,7 @@ Email: [bernhard.dieber@joanneum.at](mailto:bernhard.dieber@joanneum.at)
 
 <table style="width:90%">
   <tr>
-    <td> <br/> <img src="{{ site.baseurl }}{{ post.url }}/img/bernhard.png" width="210px"> </td>
+    <td> <br/> <img src="{{ site.baseurl }}{{ post.url }}/img/bernhard.jpg" width="210px"> </td>
     <td><p> Head of Robot Systems Group, Joanneum Research, Institute for Robotics and Mechatronics
       <br/><br/> Lakeside B13 9020 Klagenfurt, Austria
       <br/><br/> E-mail: <a href="bernhard.dieber@joanneum.at">bernhard.dieber@joanneum.at</a>
