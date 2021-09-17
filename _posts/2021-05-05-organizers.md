@@ -67,7 +67,7 @@ Email: [stefan.rass80@gmail.com](mailto:stefan.rass80@gmail.com)
 
 <div style="clear:both">&nbsp;</div> <div style="clear:both">&nbsp;</div>
 
-## Bernhard Dieber
+## Benjamin Breiling
 
 <!---
 <img style="float: left;" src="{{ site.baseurl }}{{ post.url }}/img/bernhard.png" width="200px">
@@ -81,10 +81,11 @@ Email: [bernhard.dieber@joanneum.at](mailto:bernhard.dieber@joanneum.at)
 
 <table style="width:90%">
   <tr>
-    <td> <br/> <img src="{{ site.baseurl }}{{ post.url }}/img/bernhard.jpg" width="210px"> </td>
-    <td><p> Head of Robot Systems Group, Joanneum Research, Institute for Robotics and Mechatronics
-      <br/><br/> Lakeside B13 9020 Klagenfurt, Austria
+    <td> <br/> <img src="{{ site.baseurl }}{{ post.url }}/img/benjamin.png" width="210px"> </td>
+    <td><p> Research Group for Robot Systems Technologies, Joanneum Research, Institute for Robotics and Mechatronics
+      <br/><br/> Lakeside B13b, 9020 Klagenfurt, Austria
       <br/><br/> E-mail: <a href="bernhard.dieber@joanneum.at">bernhard.dieber@joanneum.at</a>
+      <br><br/>  Phone: +43 316 876-2027
     </p></td>
   </tr>
 </table>

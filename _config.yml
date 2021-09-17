@@ -1,9 +1,9 @@
 ---
 
-#port: 4000
-#host: 0.0.0.0
-safe: true
-source: /
+#port: 4000    ## uncomment when using jekyll serve
+#host: 0.0.0.0 ## uncomment when using jekyll serve
+safe: true   ## change to false when using jekyll serve
+source: /  ## comment this line when using jekyell serve
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Cybersecurity in Robotics Workshop | IROS 2021"
+title:       "Cybersecurity in Robotics Tutorial | IROS 2021"
 keywords:    "Workshop, Tutorial, IROS, 2021, cybersecurity, robotics"
 description: "IROS 2021 tutorial session for cybersecurity in robotics"
 source_link: "https://github.com/cybersecurityrobotics/IROS2021"
